@@ -1,10 +1,10 @@
 # Risk_Bounded_Nonlinear_Robot_Motion_Planning
 This code simulates the bicycle dynamics of car by steering it on the road by avoiding another static car obstacle. The ego_vehicle has to consider all the system and perception uncertainties to generate a risk-bounded motion plan and execute it with coherent risk assessment. This code uses the CARLA simulator.
 
-CARLA SIMULATOR VERSION - 0.9.10
-PYTHON VERSION          - 3.7.6
-VISUAL STUDIO VERSION   - 2017
-UNREAL ENGINE VERSION   - 4.24.3
+- CARLA SIMULATOR VERSION - 0.9.10
+- PYTHON VERSION          - 3.7.6
+- VISUAL STUDIO VERSION   - 2017
+- UNREAL ENGINE VERSION   - 4.24.3
 
 # Modules of an autonomy stack
 There are two main modules for understanding this whole simulation
