@@ -20,8 +20,8 @@ There are two main modules for understanding this whole simulation
 6. To see the tracking results, run the python file "Tracked_Path_Plotter.py"
 
 # Variations
-1. Instead of Distributionally robust chance constraints, if you need to have a simple Gaussian Chance Constraints, then change self.DRFlag as False in line 852 in the file "DR_RRTStar_Planner.py"
-2. Choose your own state estimator UKF or EKF by commenting and uncommenting the corresponding estimator in lines 26-27 of file "State_Estimator.py"
+- Instead of Distributionally robust chance constraints, if you need to have a simple Gaussian Chance Constraints, then change self.DRFlag as False in line 852 in the file "DR_RRTStar_Planner.py"
+- Choose your own state estimator UKF or EKF by commenting and uncommenting the corresponding estimator in lines 26-27 of file "State_Estimator.py"
 
 # Contributing Authors
 1. [Venkatraman Renganathan](https://github.com/venkatramanrenganathan)
