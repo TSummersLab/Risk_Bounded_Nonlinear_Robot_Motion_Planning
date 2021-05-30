@@ -25,8 +25,8 @@ There are two main modules for understanding this whole simulation
 
 # Contributing Authors
 1. [Venkatraman Renganathan](https://github.com/venkatramanrenganathan)
-2. [Aadi Kothari](https://github.com/Aadi0902)
-3. [Sleiman Safaoui](https://github.com/The-SS)
+2. [Sleiman Safaoui](https://github.com/The-SS)
+3. [Aadi Kothari](https://github.com/Aadi0902)
 
 # Affiliation
 [Control, Optimization & Networks Laboratory (CONLab)](https://github.com/TSummersLab)
