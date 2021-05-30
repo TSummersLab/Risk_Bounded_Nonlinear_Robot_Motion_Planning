@@ -22,3 +22,11 @@ There are two main modules for understanding this whole simulation
 # Variations
 1. Instead of Distributionally robust chance constraints, if you need to have a simple Gaussian Chance Constraints, then change self.DRFlag as False in line 852 in the file "DR_RRTStar_Planner.py"
 2. Choose your own state estimator UKF or EKF by commenting and uncommenting the corresponding estimator in lines 26-27 of file "State_Estimator.py"
+
+# Contributing Authors
+1. [Venkatraman Renganathan](https://github.com/venkatramanrenganathan)
+2. [Aadi Kothari](https://github.com/venkatramanrenganathan)
+3. [Sleiman Safaoui](https://github.com/The-SS)
+
+# Affiliation
+[Control, Optimization & Networks Laboratory (CONLab)](https://github.com/TSummersLab)
