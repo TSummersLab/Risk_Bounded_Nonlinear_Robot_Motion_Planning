@@ -18,3 +18,6 @@ There are two main modules for understanding this whole simulation
 4. Run the "main.py" file with the Carla executable being open already
 5. The simulation will run in the Carla simulator where the car will track the reference trajectory and results are stored in pickle files
 6. To see the tracking results, run the python file "Tracked_Path_Plotter.py"
+
+# Variations
+
