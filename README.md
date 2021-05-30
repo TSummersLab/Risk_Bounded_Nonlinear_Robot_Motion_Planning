@@ -6,11 +6,12 @@ PYTHON VERSION          - 3.7.6
 VISUAL STUDIO VERSION   - 2017
 UNREAL ENGINE VERSION   - 4.24.3
 
-# Procedure to run the code
+# Modules of an autonomy stack
 There are two main modules for understanding this whole simulation
 1. First, a high level planner has to run and it will generate a reference trajectory for the car from start to the end
 2. Second, a low level tracking controller will enable the car to track the reference trajectory despite of the realized noises.
 
+# Procedure to run the code
 1. Run the python code "Run_Path_Planner.py"
 2. The code will run for specified number of iterations and produces all required data
 3. Then load the cooresponding pickle file data in file "main.py" in the line number #488.
