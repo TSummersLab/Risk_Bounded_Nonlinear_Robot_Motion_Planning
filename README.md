@@ -40,6 +40,9 @@ There are two main modules for understanding this whole package
 - Instead of Distributionally robust chance constraints, if you need to have a simple Gaussian Chance Constraints, then change `self.DRFlag` as False in line 852 in the file `DR_RRTStar_Planner.py`
 - Choose your own state estimator UKF or EKF by commenting and uncommenting the corresponding estimator in lines 26-27 of file `State_Estimator.py`
 
+# Funding Acknowledgement
+This work is partially supported by *Defence Science and Technology Group*, through agreement MyIP: ID10266 entitled **Hierarchical Verification of Autonomy Architectures**, the Australian Government, via grant `AUSMURIB000001` associated with ONR MURI grant `N00014-19-1-2571`, and by the *United States Air Force Office of Scientific Research* under award number `FA2386-19-1-4073`.
+
 # Contributing Authors
 1. [Venkatraman Renganathan - UT Dallas](https://github.com/venkatramanrenganathan)
 2. [Sleiman Safaoui - UT Dallas](https://github.com/The-SS)
