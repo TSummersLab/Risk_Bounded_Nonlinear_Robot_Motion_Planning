@@ -27,6 +27,7 @@ There are two main modules for understanding this whole simulation
 1. [Venkatraman Renganathan](https://github.com/venkatramanrenganathan)
 2. [Sleiman Safaoui](https://github.com/The-SS)
 3. [Aadi Kothari](https://github.com/Aadi0902)
+4. [Tyler Summers](https://github.com/TSummersLab)
 
 # Affiliation
-[Control, Optimization & Networks Laboratory (CONLab)](https://github.com/TSummersLab)
+[TSummersLab - Control, Optimization & Networks Laboratory (CONLab)](https://github.com/TSummersLab)
