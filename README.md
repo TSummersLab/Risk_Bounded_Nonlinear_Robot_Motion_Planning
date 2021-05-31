@@ -28,12 +28,21 @@ There are two main modules for understanding this whole package
 2. Second, a low level tracking controller will enable the car to track the reference trajectory despite the realized noises.
 
 # Procedure to run the code
-1. Run the python code `Run_Path_Planner.py`
-2. The code will run for specified number of iterations and produces all required data
-3. Then load the cooresponding pickle file data in file `main.py` in the line number #488.
-4. Run the `main.py` file with the Carla executable being open already
-5. The simulation will run in the Carla simulator where the car will track the reference trajectory and results are stored in pickle files
-6. To see the tracking results, run the python file `Tracked_Path_Plotter.py`
+1. Run the python code `Generate_Monte_Carlo_Noises.py` which will generate and load the required noise parameters and data required for simulation into pickle files
+2. Run the python code `Run_Path_Planner.py`
+3. The code will run for specified number of iterations and produces all required data
+4. Then load the cooresponding pickle file data in file `main.py` in the line number #488.
+5. Run the `main.py` file with the Carla executable being open already
+6. The simulation will run in the Carla simulator where the car will track the reference trajectory and results are stored in pickle files
+7. To see the tracking results, run the python file `Tracked_Path_Plotter.py`
+
+# Running Monte-Carlo Simulations
+
+1. Create a new folder called `monte_carlo_results` in the same directory where the python file `monte_carlo_car.py` resides.
+1. Update the `trial_num` at line #1554 in the file `monte_carlo_car.py` and run it while the Carla executable is open (It will automatically load the corresponding noise realization from the pickel files)
+1. After the simulation is over, automatically the results are stored under the folder `monte_carlo_results` with a specific trial name
+1. Repeat the process by changing trial number in step 2 and run again.
+1. Once the all trials are completed, run the python file `monte_carlo_results_plotter.py` to plot the monte-carlo simulation results 
 
 # Variations
 - Instead of Distributionally robust chance constraints, if you need to have a simple Gaussian Chance Constraints, then change 
