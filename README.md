@@ -7,7 +7,7 @@ This code simulates the bicycle dynamics of car by steering it on the road by av
 - UNREAL ENGINE VERSION   - 4.24.3
 
 The code in this repository implements the algorithms and ideas from our following paper:
-1. V. Renganathan, S. Safaoui, A. Kothari, I. Shames, T. Summers, "Risk Bounded Nonlinear Robot Motion Planning With Integrated Perception & Control", Submitted to the International Journal on Robotics Research (IJRR), 2021.
+1. V. Renganathan, S. Safaoui, A. Kothari, I. Shames, T. Summers, `Risk Bounded Nonlinear Robot Motion Planning With Integrated Perception & Control`, Submitted to the International Journal on Robotics Research (IJRR), 2021.
 
 # Dependencies
 - Python 3.5+ (tested with 3.7.6)
