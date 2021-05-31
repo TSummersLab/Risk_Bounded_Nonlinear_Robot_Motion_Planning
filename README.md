@@ -3,7 +3,6 @@ This code simulates the bicycle dynamics of car by steering it on the road by av
 
 - CARLA SIMULATOR VERSION - 0.9.10
 - PYTHON VERSION          - 3.7.6
-- VISUAL STUDIO VERSION   - 2017
 - UNREAL ENGINE VERSION   - 4.24.3
 
 ![Motion Planning Using Carla Simulator](https://github.com/venkatramanrenganathan/Risk_Bounded_Nonlinear_Robot_Motion_Planning/blob/main/carla_tree_path.PNG)
