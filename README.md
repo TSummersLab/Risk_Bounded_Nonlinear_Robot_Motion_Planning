@@ -39,7 +39,7 @@ There are two main modules for understanding this whole package
 # Running Monte-Carlo Simulations
 
 1. Create a new folder called `monte_carlo_results` in the same directory where the python file `monte_carlo_car.py` resides.
-1. Update the `trial_num` at line #1554 in the file `monte_carlo_car.py` and run it while the Carla executable is open (It will automatically load the corresponding noise realization from the pickel files)
+1. Update the `trial_num` at line #1554 in the file `monte_carlo_car.py` and run it while the Carla executable is open (It will automatically load the noise realizations corresponding to the `trial_num` from the pickle files)
 1. After the simulation is over, automatically the results are stored under the folder `monte_carlo_results` with a specific trial name
 1. Repeat the process by changing trial number in step 2 and run again.
 1. Once the all trials are completed, run the python file `monte_carlo_results_plotter.py` to plot the monte-carlo simulation results 
