@@ -6,6 +6,8 @@ This code simulates the bicycle dynamics of car by steering it on the road by av
 - VISUAL STUDIO VERSION   - 2017
 - UNREAL ENGINE VERSION   - 4.24.3
 
+![truck_platoon](https://github.com/venkatramanrenganathan/Attack-Resiliency-In-Truck-Platooning-Using-Two-Team-Games/blob/master/truck_platoon.gif)
+
 The code in this repository implements the algorithms and ideas from our following paper:
 1. V. Renganathan, S. Safaoui, A. Kothari, I. Shames, T. Summers, `Risk Bounded Nonlinear Robot Motion Planning With Integrated Perception & Control`, Submitted to the International Journal on Robotics Research (IJRR), 2021.
 
