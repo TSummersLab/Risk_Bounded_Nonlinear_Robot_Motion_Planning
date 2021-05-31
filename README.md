@@ -1,10 +1,6 @@
 # Nonlinear Risk Bounded Robot Motion Planning
 This code simulates the bicycle dynamics of car by steering it on the road by avoiding another static car obstacle in a CARLA simulator. The ego_vehicle has to consider all the system and perception uncertainties to generate a risk-bounded motion plan and execute it with coherent risk assessment. Coherent risk assessment for a nonlinear robot like the car in this simulation is made possible using nonlinear model predictive control (NMPC) based steering law combined with Unscented Kalman filter for state estimation purpose. Finally, distributionally robust chance constraints applied using a temporal logic specifications evaluate the risk of a trajectory before being added to the sequence of trajectories forming a motion plan from the start to the destination.
 
-- CARLA SIMULATOR VERSION - 0.9.10
-- PYTHON VERSION          - 3.7.6
-- UNREAL ENGINE VERSION   - 4.24.3
-
 ![Motion Planning Using Carla Simulator](https://github.com/venkatramanrenganathan/Risk_Bounded_Nonlinear_Robot_Motion_Planning/blob/main/carla_tree_path.PNG)
 
 The code in this repository implements the algorithms and ideas from our following paper:
@@ -19,6 +15,8 @@ The code in this repository implements the algorithms and ideas from our followi
 - Namedlist
 - Pickle
 - Carla
+- CARLA SIMULATOR VERSION: 0.9.10
+- UNREAL ENGINE VERSION: 4.24.3
 
 # Installing
 Currently there is no formal package installation procedure; simply download this repository and run the Python files.
