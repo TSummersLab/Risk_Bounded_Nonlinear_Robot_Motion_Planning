@@ -40,10 +40,10 @@ There are two main modules for understanding this whole package
 - Choose your own state estimator UKF or EKF by commenting and uncommenting the corresponding estimator in lines 26-27 of file `State_Estimator.py`
 
 # Contributing Authors
-1. [Venkatraman Renganathan](https://github.com/venkatramanrenganathan)
-2. [Sleiman Safaoui](https://github.com/The-SS)
-3. [Aadi Kothari](https://github.com/Aadi0902)
-4. [Tyler Summers](https://github.com/TSummersLab)
+1. [Venkatraman Renganathan - UT Dallas](https://github.com/venkatramanrenganathan)
+2. [Sleiman Safaoui - UT Dallas](https://github.com/The-SS)
+3. [Aadi Kothari - UT Dallas](https://github.com/Aadi0902)
+4. [Tyler Summers - UT Dallas](https://github.com/TSummersLab)
 
 # Affiliation
 [TSummersLab - Control, Optimization & Networks Laboratory (CONLab)](https://github.com/TSummersLab)
