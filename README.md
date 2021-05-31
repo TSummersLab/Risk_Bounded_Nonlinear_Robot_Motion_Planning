@@ -45,7 +45,7 @@ There are two main modules for understanding this whole package
 1. Once the all trials are completed, run the python file `monte_carlo_results_plotter.py` to plot the monte-carlo simulation results 
 
 # Variations
-- Instead of Distributionally robust chance constraints, if you need to have a simple Gaussian Chance Constraints, then change 
+- Instead of Distributionally robust chance constraints, if you would like to have a simple Gaussian Chance Constraints, then change 
 ```self.DRFlag = False``` in line 852 in the file `DR_RRTStar_Planner.py`
 - Choose your own state estimator UKF or EKF by commenting and uncommenting the corresponding estimator in lines 26-27 of file `State_Estimator.py`
 
