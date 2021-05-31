@@ -18,10 +18,9 @@ The code in this repository implements the algorithms and ideas from our followi
 
 
 # Installing
-You will need the following two items to run the codes
+You will need the following two items to run the codes. After that there is no other formal package installation procedure; simply download this repository and run the Python files.
 - CARLA SIMULATOR VERSION: 0.9.10
 - UNREAL ENGINE VERSION: 4.24.3
-After that  there is no other formal package installation procedure; simply download this repository and run the Python files.
 
 # Modules of an autonomy stack
 There are two main modules for understanding this whole package
