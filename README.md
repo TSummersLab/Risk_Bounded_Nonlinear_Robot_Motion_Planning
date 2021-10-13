@@ -56,8 +56,9 @@ This work is partially supported by *Defence Science and Technology Group*, thro
 1. [Venkatraman Renganathan - UT Dallas](https://github.com/venkatramanrenganathan)
 2. [Sleiman Safaoui - UT Dallas](https://github.com/The-SS)
 3. [Aadi Kothari - UT Dallas](https://github.com/Aadi0902)
-4. [Dr. Iman Shames - Australian National University](https://imanshames.blog)
-5. [Dr. Tyler Summers - UT Dallas](https://github.com/tsummers)
+4. [Benjamin Gravell - UT Dallas](https://github.com/BenGravell)
+5. [Dr. Iman Shames - Australian National University](https://imanshames.blog)
+6. [Dr. Tyler Summers - UT Dallas](https://github.com/tsummers)
 
 # Affiliation
 [TSummersLab - Control, Optimization & Networks Laboratory (CONLab)](https://github.com/TSummersLab)
