@@ -4,7 +4,10 @@ This code simulates the bicycle dynamics of car by steering it on the road by av
 ![Motion Planning Using Carla Simulator](https://github.com/TSummersLab/Risk_Bounded_Nonlinear_Robot_Motion_Planning/blob/main/risk_bounded_planning/Figures/carla_tree_path.PNG)
 
 The code in this repository implements the algorithms and ideas from our following paper:
-1. V. Renganathan, S. Safaoui, A. Kothari, I. Shames, T. Summers, `Risk Bounded Nonlinear Robot Motion Planning With Integrated Perception & Control`, Submitted to the International Journal on Robotics Research (IJRR), 2021.
+1. V. Renganathan, S. Safaoui, A. Kothari, I. Shames, T. Summers, `Risk Bounded Nonlinear Robot Motion Planning With Integrated Perception & Control`, Submitted to the Special Issue on Risk-aware Autonomous Systems: Theory and Practice, Artificial Intelligence Journal, 2021.
+
+The video supporting our work is on Youtube. The link is below
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KpyWXRZ-wSI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Dependencies
 - Python 3.5+ (tested with 3.7.6)
