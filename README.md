@@ -3,7 +3,7 @@ This code simulates the bicycle dynamics of car by steering it on the road by av
 
 Click the picture to watch the corresponding youtube video supporting our work
 
-[![Motion Planning Using Carla Simulator](https://github.com/TSummersLab/Risk_Bounded_Nonlinear_Robot_Motion_Planning/blob/main/risk_bounded_planning/Figures/carla_tree_path.PNG)](https://www.youtube.com/embed/KpyWXRZ-wSI)
+[![Motion Planning Using Carla Simulator](https://github.com/TSummersLab/Risk_Bounded_Nonlinear_Robot_Motion_Planning/blob/main/risk_bounded_planning/Figures/carla_tree_path.PNG)](https://www.youtube.com/watch?v=YyquJ1Hh-6A)
 
 The code in this repository implements the algorithms and ideas from our following paper:
 1. V. Renganathan, S. Safaoui, A. Kothari, I. Shames, T. Summers, `Risk Bounded Nonlinear Robot Motion Planning With Integrated Perception & Control`, Submitted to the Special Issue on Risk-aware Autonomous Systems: Theory and Practice, Artificial Intelligence Journal, 2021.
@@ -63,4 +63,4 @@ This work is partially supported by *Defence Science and Technology Group*, thro
 6. [Dr. Tyler Summers - UT Dallas](https://github.com/tsummers)
 
 # Affiliation
-[TSummersLab - Control, Optimization & Networks Laboratory (CONLab)](https://github.com/TSummersLab)
+[TSummersLab - Control, Optimization & Networks Laboratory (CONLab) at UT Dallas](https://github.com/TSummersLab)
