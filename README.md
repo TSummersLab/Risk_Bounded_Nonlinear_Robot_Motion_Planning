@@ -6,7 +6,7 @@ Click the picture to watch the corresponding youtube video supporting our work
 [![Motion Planning Using Carla Simulator](https://github.com/TSummersLab/Risk_Bounded_Nonlinear_Robot_Motion_Planning/blob/main/risk_bounded_planning/Figures/carla_tree_path.PNG)](https://www.youtube.com/watch?v=YyquJ1Hh-6A)
 
 The code in this repository implements the algorithms and ideas from our following paper:
-1. V. Renganathan, S. Safaoui, A. Kothari, I. Shames, T. Summers, `Risk Bounded Nonlinear Robot Motion Planning With Integrated Perception & Control`, Submitted to the Special Issue on Risk-aware Autonomous Systems: Theory and Practice, Artificial Intelligence Journal, 2021.
+1. V. Renganathan, S. Safaoui, A. Kothari, I. Shames, T. Summers, `Risk Bounded Nonlinear Robot Motion Planning With Integrated Perception & Control`, Submitted to the Special Issue on Risk-aware Autonomous Systems: Theory and Practice, Artificial Intelligence Journal, 2022.
 
 # Dependencies
 - Python 3.5+ (tested with 3.7.6)
