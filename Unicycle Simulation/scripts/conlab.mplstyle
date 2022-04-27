@@ -1,0 +1,39 @@
+lines.linewidth: 2
+lines.solid_capstyle: butt
+
+legend.fancybox: true
+legend.framealpha: 0.9
+
+axes.prop_cycle: cycler('color', ['0078f0', 'e87500', '3a9476', 'c13f21', '810f7c', 'dda032'])
+axes.labelsize: large
+axes.axisbelow: true
+axes.grid: true
+
+axes.linewidth: 1.0
+axes.titlesize: x-large
+
+patch.linewidth: 0.5
+svg.fonttype: path
+
+grid.linestyle: -
+grid.linewidth: 1.0
+grid.color: cbcbcb
+
+xtick.major.size: 0
+xtick.minor.size: 0
+ytick.major.size: 0
+ytick.minor.size: 0
+
+font.size:14.0
+
+figure.subplot.left: 0.08
+figure.subplot.right: 0.95
+figure.subplot.bottom: 0.07
+
+# Uncomment these options to use a nonwhite background color
+# axes.edgecolor: f0f0f0
+# axes.facecolor: f0f0f0
+# patch.edgecolor: f0f0f0
+# savefig.edgecolor: f0f0f0
+# savefig.facecolor: f0f0f0
+# figure.facecolor: f0f0f0
